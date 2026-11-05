@@ -1,0 +1,8 @@
+{
+  "name": "Remix Lentera Edu - Platform E-Learning Terpadu",
+  "description": "Platform e-learning modern dan responsif untuk Siswa dan Guru dengan manajemen materi, tugas berbatas waktu, sistem ujian ber-timer, gradebook otomatis, absensi harian, dan forum kolaboratif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
